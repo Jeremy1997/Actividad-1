@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATACAMES</title>
+</head>
+<body>
+    <header>
+        <span>Esmeraldas.</span>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Destinos</a></li>
+                <li><a href="#">Turismo</a></li>
+                <li><a href="#">Listado</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>CANTÓN ATACAMES</h1>
+        <h4>Atacames, también conocida como Santa Rosa de Atacames, 
+            es una ciudad ecuatoriana; cabecera del cantón homónimo, 
+            así como la cuarta urbe más grande y poblada de la Provincia de 
+            Esmeraldas. Se localiza al norte de la región litoral del Ecuador, 
+            asentada en una extensa llanura, a orillas del océano Pacífico, 
+            atravesada por el río Atacames, a una altitud de 6 m s. n. m. 
+            y con un clima lluvioso tropical de 25 °C en promedio.</h4>
+    </section>
+    <section>
+        <h3>Playa de Tonsupa</h3>
+        <a href="#" target="_blank">Conocer más</a> <br>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/playa_tonsupa.jpg" width="300" height="200"  alt="">
+    </section>
+    <section>
+        <h3>Aqua Park</h3>
+        <a href="pagina4.html" target="_blank">Conocer más</a> <br>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/aqua_park.jpg" width="300" height="200" alt="">
+    </section>
+    <section>
+        <h3>Playa de Atacames</h3>
+        <a href="pagina3.html" target="_blank">Conocer más</a> <br>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/playa_atacames.jpg" width="300" height="200" alt="">
+    </section>
+    <section>
+        <h3>El Peñon del Suicida</h3>
+        <a href="#" target="_blank">Conocer más</a> <br>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/elpeñon.jpg" width="300" height="200" alt="">
+    </section>
+    <section>
+        <h3>Playa de Súa</h3>
+        <a href="#" target="_blank">Conocer más</a> <br>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/playa_sua.jpg" width="300" height="200" alt="">
+    </section>
+    <a href="index.html">Regresar</a>
+</body>
+</html>
