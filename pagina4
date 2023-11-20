@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AQUA PARK</title>
+</head>
+<body>
+    <header>
+        <span>Esmeraldas.</span>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Destinos</a></li>
+                <li><a href="#">Turismo</a></li>
+                <li><a href="#">Listado</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>AQUA PARK</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/aqua_park.jpg" width="1000" height="700" alt="">
+    </section>
+    <section>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bzzYlnbVqm4?si=TQlHLFwYAADAMALM?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section>
+    <section>
+        <h1>TOBOGANES</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/toboganes.jpg" width="1000" height="700" alt="">
+    </section>
+    <section>
+        <h1>CASTILLO</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/castillo.jpg" width="1000" height="700" alt="">
+    </section>
+    <section>
+        <h1>RECREATIVO</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/recreativo.jpg" width="1000" height="700" alt="">
+    </section>
+    <a href="pagina3.html">Regresar</a>
+</body>
+</html>
