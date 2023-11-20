@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TURISMO ATACAMES</title>
+</head>
+<body>
+    <header>
+        <span>Esmeraldas.</span>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Destinos</a></li>
+                <li><a href="#">Turismo</a></li>
+                <li><a href="#">Listado</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>PASEOS EN GLOBO</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/globo.jpg" width="1000" height="700" alt="">
+        <aside>
+            <p>Un globo aerostático​ es una aeronave aerostática no propulsada que se sirve del principio de los fluidos de Arquímedes para volar, entendiendo el aire como un fluido.</p>
+        </aside>
+    </section>
+    <section>
+        <h1>VOLEY PLAYERO</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/voley.jpg" width="1000" height="700" alt="">
+        <aside>
+            <p>El voleibol de playa, vóleibol playa, voleibol playero o vóley-playa es una variante del voleibol que se juega sobre arena, generalmente en la playa, aunque son muy populares los torneos en localidades del interior en piscinas de arena.</p>
+        </aside>
+    </section>
+    <section>
+        <h1>CABALGATA EN BANANA</h1>
+        <img src="C:/Users/Jeremy/Desktop/UTPL/CUARTO/TECNOLOGIAS_WEB/TAREAS/ACTIVIDAD_1/img/banana.jpg" width="1000" height="700" alt="">
+        <aside>
+            <p>Las cabalgatas en banana son muy demandadas por los turistas que visitan las playas, es una atracción muy divertida y que puedes realizarla junto con toda tu familia, una actividad llena de agua y diversión.</p>
+        </aside>
+    </section>
+    <a href="pagina2.html">Regresar</a>
+</body>
+</html>
